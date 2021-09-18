@@ -7,7 +7,7 @@ console.log(`
 kevyn
 permite multiplas linhas
 `)
-4
+
 // Permite Interpolação ${...}
 console.log(`permite expressões de linguagem
 ${1 + 1} 
