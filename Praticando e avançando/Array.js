@@ -17,4 +17,4 @@ const animais = [
 ]
 console.log(animais)
 console.log(animais[2].name)
-console.log(animais[1].name)
+console.log(animais[1].name) // não é objeto, é uma string
